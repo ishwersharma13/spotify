@@ -9,6 +9,17 @@
   A responsive and feature-rich Spotify clone built with React and Redux.
 </p>
 
+## Screenshots
+
+<p align="center">
+  <img src="images/spotify-clone-search.png" alt="Search" width="400">
+  <img src="images/spotify-clone-playlists.png" alt="Playlists" width="400">
+</p>
+
+<p align="center">
+  <img src="images/spotify-clone-player.png" alt="Player" width="800">
+</p>
+
 ## Features
 
 - User authentication and authorization
