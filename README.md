@@ -18,10 +18,6 @@
 - Save and follow your favorite artists and albums
 - Responsive design for seamless usage on different devices
 
-## Demo
-
-Check out the live demo of the Spotify Clone: [Demo Link](https://your-demo-link.com)
-
 ## Installation
 
 1. Clone the repository:
@@ -47,7 +43,3 @@ This project is licensed under the MIT License. See the [LICENSE](LICENSE) file 
 
 - [Spotify API](https://developer.spotify.com/documentation/web-api/)
 - [Create React App](https://create-react-app.dev/)
-
-## Contact
-
-For any inquiries or suggestions, please email us at spotify.clone@example.com.
